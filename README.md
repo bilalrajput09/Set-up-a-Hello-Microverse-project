@@ -81,3 +81,10 @@ I would like to thank Microverse for giving us the chance to build a better worl
 I would like to appreciate my team members. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
